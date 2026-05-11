@@ -1,4 +1,4 @@
-![Invoicika](https://im.ages.io/zxV6jintl3)
+![Invoicika](images/banner.png)
 
 # **Invoicika**
 
@@ -17,7 +17,7 @@ Invoicika is an advanced invoice management system built with Angular 16, ASP.NE
 - **VAT Management**: Handle VAT for customer invoices.
 - **Database**: Built to work with PostgreSQL.
 
-![Description](https://i.imgur.com/uDmUb5U.png)
+![Dashboard](images/dashboard.png)
 
 ## Technologies Used
 
@@ -25,7 +25,7 @@ Invoicika is an advanced invoice management system built with Angular 16, ASP.NE
 - **Backend**: ASP.NET Core Web API 10.0 (Robust and scalable API layer).
 - **Database**: PostgreSQL (Code First Migration).
 
-![Description](https://i.imgur.com/0dwmGY1.png)
+![Invoice](images/invoice.png)
 
 ## How to Install (without Docker)
 
@@ -110,7 +110,7 @@ Invoicika is an advanced invoice management system built with Angular 16, ASP.NE
 }
 ```
 
-![Description](https://i.imgur.com/wrV0y1L.png)
+![PDF](images/pdf.png)
 
 ## How to Install (with Docker)
 
@@ -124,7 +124,7 @@ You might see the seeder failed in docker compose log. To make the seeder happen
 Open your browser and navigate to `http://localhost:4444` for the frontend.
 Login with `username: admin1, password: admin1` as admin or `username: employee1, password: employee1` as employee. The backend is at `http://localhost:5000/swagger/index.html`
 
-![Description](https://i.imgur.com/vNY5TTM.png)
+![Email](images/email.png)
 
 ## Contributing
 
